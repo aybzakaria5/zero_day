@@ -1,7 +1,7 @@
 # Vargant -or- how to code in your local computer
 ## Learning Objectives 
-at the end of this project , you are expected to be able to **EXPLAIN** to anyone ,without the help og Google :
-* What is a virtual machine
+at the end of this project , you are expected to be able to **EXPLAIN** to anyone ,without the help of  Google :
+* What is a virtual machine 
 * who wrote Vagrant 
 * what is Ubuntu
 * what does Ubuntu mean
